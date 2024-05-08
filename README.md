@@ -1,3 +1,7 @@
+# Credits
+The original repo can be found at --> https://github.com/grootan/keycloak-oidc-node
+
+
 # Keycloak - Authorization Flow using Express
 
 ## About
