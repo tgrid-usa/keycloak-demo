@@ -1,0 +1,8 @@
+{
+  "realm": "TrustGridIssuer",
+  "auth-server-url": "https://auth.staging.trustgrid.com/auth",
+  "resource": "akredi",
+  "credentials": {
+    "secret" : "51c81a73-28b2-44fa-9317-611079a70084"
+  }
+}
