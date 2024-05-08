@@ -30,11 +30,11 @@ OpenID Connect is a perfect way to incorporate user authentication to your appli
 
 In this situation, Keycloak handles the identity of the users, allowing it faster to get up and running.
 
-# Credits
-The original repo can be found at --> https://github.com/grootan/keycloak-oidc-node
-
 ## Single Sign On (SSO)
 
 By integrating OpenID Connect via Keycloak, you are building a session that can be used to single sign-on from your custom app to other applications that your users can access via the Keycloak portal.
 
 If you have any queries/you find any problems, please don't hesitate connect with dev@trustgrid.com
+
+# Credits
+The original repo can be found at --> https://github.com/grootan/keycloak-oidc-node
