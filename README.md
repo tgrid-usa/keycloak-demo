@@ -1,7 +1,3 @@
-# Credits
-The original repo can be found at --> https://github.com/grootan/keycloak-oidc-node
-
-
 # Keycloak - Authorization Flow using Express
 
 ## About
@@ -33,6 +29,9 @@ This repository includes an express example app that displays the numerous Autho
 OpenID Connect is a perfect way to incorporate user authentication to your application, where you are relying on another party to handle user identity.
 
 In this situation, Keycloak handles the identity of the users, allowing it faster to get up and running.
+
+# Credits
+The original repo can be found at --> https://github.com/grootan/keycloak-oidc-node
 
 ## Single Sign On (SSO)
 
