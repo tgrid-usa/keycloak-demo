@@ -11,6 +11,7 @@ This repository includes an express example app that displays the numerous Autho
 3. You can customize the details relevant to the OIDC in the ```./keycloak.json``` file [CURRENTLY CONFIGURED TO POINT TO DEV (not DEVELOPMENT) KEYCLOAK INSTANCE - https://auth.dev.trustgrid.com]
 3a. DEVELOPMENT - is old env
 3b.i DEV - is new env
+
 4. Make sure that you replace the keycloak-tenant-id with your TenantID and keycloak-client-id with your ClientID.
 5. Modify {hostname} to align your keycloak domain.
 6. Replace `client-secret-for-confidential-client` with client secret (Applicable only if the client is Confidential).
